@@ -23,8 +23,8 @@ Numerical investigation of fluid flow and structural response in a 180° curved 
 - ANSYS Fluent
 - ANSYS Mechanical
 
-## Ansys model
-![Velocity contour](
+## Ansys Model
+![Velocity contour](https://github.com/milanroy4509/CFD-FEA-Pipe-Flow-Study/blob/46e94296cea3a5157254c19beb400a27c34a704c/images/Pipe%20flow%20ansys.jpg)
 
 
 
