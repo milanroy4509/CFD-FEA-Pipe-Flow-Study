@@ -22,3 +22,9 @@ Numerical investigation of fluid flow and structural response in a 180° curved 
 ## Tools Used
 - ANSYS Fluent
 - ANSYS Mechanical
+
+## Ansys model
+![Velocity contour](
+
+
+
